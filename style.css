@@ -26,3 +26,6 @@ ul.plain{list-style:none}ul.plain li{padding:12px 0;border-top:1px solid var(--l
 footer{padding:36px 0 56px;color:var(--mut);font-size:14px}
 footer a{color:var(--mut);text-decoration:underline}
 @media(max-width:520px){header{padding:64px 0 44px}.btn.o{margin-left:0}.btn{margin-right:8px}}
+.pillar-map{margin-top:6px}
+.src{font-size:14px;color:var(--mut)}.src li{padding:6px 0}
+.note{font-size:14px;color:var(--mut);margin-top:10px}
